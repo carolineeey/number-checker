@@ -1,0 +1,22 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+@import url('https://fonts.googleapis.com/css2?family=Outfit&family=Quicksand&display=swap" rel="stylesheet');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+}
+
+h1, p, button {
+  font-family: 'Outfit', sans-serif;
+}
+
+.note {
+  width: 100%;
+  text-align: left;
+  font-size: 15px;
+  padding: 0;
+}
